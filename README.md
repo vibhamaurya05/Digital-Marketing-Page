@@ -1,4 +1,4 @@
-# CSS third sample project
+# Digital Marketing Page
 ## Screenshot
 ![Capture1](https://github.com/vibhamaurya05/CSS-third-sample-project/assets/138363991/259a3ccf-c03c-4082-8012-b8443762364e)
 ## What I learned from this project
