@@ -5,4 +5,4 @@ I created this Gaming Landing Page project usinh HTML and CSS, which gave me mor
 ## What I learned from this project
 By this project I learned about how HTML and CSS works and also position elements using HTML & CSS and how to style html document using CSS.
 ## I took 8 hours to complete it.
-## ![Live Link](https://css-third-sample-project.vercel.app/)
+## [Live link](https://css-third-sample-project.vercel.app)
